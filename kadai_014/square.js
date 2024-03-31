@@ -1,4 +1,4 @@
 const Y = (num) => {
-    return num * 2;
+    return num ** 2;
 }
-console.log(Y(50));
+console.log(Y(10));

@@ -8,6 +8,4 @@ textbtn.addEventListener('click',() =>{
  const remove =document.getElementById('text');
  //チルドリスト文字列はこれにして
     remove.textContent = 'ボタンをクリックし真下'
-    //テキストに書きくわえる
-    text.appendChild(childList);
 });
